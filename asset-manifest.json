@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bc2cdea6.chunk.css",
+    "main.js": "./static/js/main.71273d02.chunk.js",
+    "main.js.map": "./static/js/main.71273d02.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.2ec475fb.chunk.js": "./static/js/2.2ec475fb.chunk.js",
+    "static/js/2.2ec475fb.chunk.js.map": "./static/js/2.2ec475fb.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.f7b5ae7a0e7af2ec3e15af9316594932.js": "./precache-manifest.f7b5ae7a0e7af2ec3e15af9316594932.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.bc2cdea6.chunk.css.map": "./static/css/main.bc2cdea6.chunk.css.map",
+    "static/media/PiskelBlock.scss": "./static/media/cursor_icon_pen.7984cea0.png",
+    "static/media/ToolsList.scss": "./static/media/icon_pen.41a9461b.png"
+  }
+}
